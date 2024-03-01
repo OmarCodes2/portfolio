@@ -11,7 +11,7 @@ function Header() {
 
   return (
     <header className="header">
-      <div className="logo"><a href="#top">DeZhaysun</a></div>
+      <div className="logo"><a href="#top">Omar Bakr</a></div>
       <div className={`nav-toggle ${isNavVisible ? 'active' : ''}`} onClick={toggleNav}>
         <span></span>
         <span></span>
