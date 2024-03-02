@@ -19,10 +19,10 @@ function Header() {
       </div>
       <nav className={isNavVisible ? 'active' : ''}>
         <a href="#portfolio-header">Portfolio</a>
-        <a href="https://www.linkedin.com/in/jasontang03/" target='_'>LinkedIn</a>
-        <a href="https://github.com/DeZhaysun/" target='_'>GitHub</a>
-        <a href="https://drive.google.com/file/d/1q3mDr7zR11IQVKMZ7fcisbhlUwnakiRf/view?usp=sharing" target='_'>Resumé</a>
-        <a href="mailto: shuaihangtang@gmail.com" target='_'>Email</a>
+        <a href="https://www.linkedin.com/in/omarbakr03/" target='_'>LinkedIn</a>
+        <a href="https://github.com/OmarCodes2" target='_'>GitHub</a>
+        <a href="https://drive.google.com/file/d/18TcrSgDz3v58U_oAPduljoqX9DPhh411/view?usp=sharing" target='_'>Resumé</a>
+        <a href="mailto: 1bakromar@gmail.com" target='_'>Email</a>
       </nav>
     </header>
   );
